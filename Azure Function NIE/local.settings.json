@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=stycn7x2yyeprrc;AccountKey=ZCTUthjh3PFuG7G7LTOgYXfLSbsa1t+dBj9u49xK64Lg9JdsWGpCiOLcLzuTUVIgpaeknfua3dM5+AStyhP4Kg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_KEY": "4657af893faf48e5bd81208d9f87f271",
+    "OPENAI_API_VERSION": "2023-05-15"
+  }
+}
